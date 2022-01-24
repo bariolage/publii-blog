@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bariolage Blog",
+    "description": "",
+    "home_page_url": "https://bariolage.github.io/publii-blog",
+    "feed_url": "https://bariolage.github.io/publii-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bariolage"
+    },
+    "items": [
+        {
+            "id": "https://bariolage.github.io/publii-blog/first-blog-post.html",
+            "url": "https://bariolage.github.io/publii-blog/first-blog-post.html",
+            "title": "First Blog Post",
+            "summary": "This is the first blog post. ",
+            "content_html": "<p>This is the <strong>first blog post</strong>.</p>\n",
+            "image": "https://bariolage.github.io/publii-blog/media/posts/1/avatar.png",
+            "author": {
+                "name": "Bariolage"
+            },
+            "tags": [
+                   "Post",
+                   "Blog"
+            ],
+            "date_published": "2022-01-24T10:42:09+01:00",
+            "date_modified": "2022-01-24T10:42:09+01:00"
+        }
+    ]
+}

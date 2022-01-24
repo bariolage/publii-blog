@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bariolage Blog</title>
+    <link href="https://bariolage.github.io/publii-blog/feed.xml" rel="self" />
+    <link href="https://bariolage.github.io/publii-blog" />
+    <updated>2022-01-24T10:42:09+01:00</updated>
+    <author>
+        <name>Bariolage</name>
+    </author>
+    <id>https://bariolage.github.io/publii-blog</id>
+
+    <entry>
+        <title>First Blog Post</title>
+        <author>
+            <name>Bariolage</name>
+        </author>
+        <link href="https://bariolage.github.io/publii-blog/first-blog-post.html"/>
+        <id>https://bariolage.github.io/publii-blog/first-blog-post.html</id>
+            <category term="Post"/>
+            <category term="Blog"/>
+
+        <updated>2022-01-24T10:42:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bariolage.github.io/publii-blog/media/posts/1/avatar.png" alt="" />
+                    This is the first blog post. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bariolage.github.io/publii-blog/media/posts/1/avatar.png" alt="" />
+                <p>This is the <strong>first blog post</strong>.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

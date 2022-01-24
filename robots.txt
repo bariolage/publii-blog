@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bariolage.github.io/publii-blog/sitemap.xml
