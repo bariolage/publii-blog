@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://bariolage.github.io/publii-blog/second-post.html",
+            "url": "https://bariolage.github.io/publii-blog/second-post.html",
+            "title": "Second Post",
+            "summary": "This is the Second post.",
+            "content_html": "<p>This is the <strong>Second post</strong><strong>.</strong></p>",
+            "author": {
+                "name": "Bariolage"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-24T10:48:22+01:00",
+            "date_modified": "2022-01-24T10:48:22+01:00"
+        },
+        {
             "id": "https://bariolage.github.io/publii-blog/first-blog-post.html",
             "url": "https://bariolage.github.io/publii-blog/first-blog-post.html",
             "title": "First Blog Post",

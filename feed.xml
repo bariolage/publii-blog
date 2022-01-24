@@ -3,12 +3,32 @@
     <title>Bariolage Blog</title>
     <link href="https://bariolage.github.io/publii-blog/feed.xml" rel="self" />
     <link href="https://bariolage.github.io/publii-blog" />
-    <updated>2022-01-24T10:42:09+01:00</updated>
+    <updated>2022-01-24T10:48:22+01:00</updated>
     <author>
         <name>Bariolage</name>
     </author>
     <id>https://bariolage.github.io/publii-blog</id>
 
+    <entry>
+        <title>Second Post</title>
+        <author>
+            <name>Bariolage</name>
+        </author>
+        <link href="https://bariolage.github.io/publii-blog/second-post.html"/>
+        <id>https://bariolage.github.io/publii-blog/second-post.html</id>
+
+        <updated>2022-01-24T10:48:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the Second post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the <strong>Second post</strong><strong>.</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First Blog Post</title>
         <author>
